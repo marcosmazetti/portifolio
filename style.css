@@ -5,9 +5,14 @@ body {
 
 header{
   text-align: center;
-}
+
+
 
 span{
-  background-color:rgb(124, 120, 120);,
+  background-color: rgb(145, 109, 179);
   color: white;
+  padding: 3px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
+
