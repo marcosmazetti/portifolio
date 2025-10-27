@@ -6,3 +6,8 @@ body {
 header{
   text-align: center;
 }
+
+span{
+  background-color:rgb(124, 120, 120);,
+  color: white;
+}
