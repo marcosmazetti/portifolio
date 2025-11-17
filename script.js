@@ -1,2 +1,2 @@
-let texto = document.querySelector("#texto");​
+let texto = document.querySelector("#texto");
 texto.textContent = "Marcos";
